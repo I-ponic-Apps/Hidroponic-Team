@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "568984913563",
+    "firebase_url": "https://splashscreeniponic-f9cbd.firebaseio.com",
+    "project_id": "splashscreeniponic-f9cbd",
+    "storage_bucket": "splashscreeniponic-f9cbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568984913563:android:ff16a7c457a80cfbc7683e",
+        "android_client_info": {
+          "package_name": "com.smart.splashscreeniponic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568984913563-7qleiuotki3it5fu59ptpf70341v4qvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCubzp-Bf3KuRt6gLzDXhFijTHJNWdii98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568984913563-7qleiuotki3it5fu59ptpf70341v4qvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
